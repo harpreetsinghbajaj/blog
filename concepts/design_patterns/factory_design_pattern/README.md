@@ -1,0 +1,1 @@
+factory pattern allows the creation of an object without exposing the type of object created. It wraps the object type that is created. This is also known as the virtual constructor pattern.
