@@ -1,0 +1,1 @@
+This shall describe the way to work with ip addresses in linux operating system
