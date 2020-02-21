@@ -1,0 +1,1 @@
+ifconfig eth0 inet6 add 2002:db6::2/64
