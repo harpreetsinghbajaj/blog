@@ -1,0 +1,1 @@
+to make processes interact with each other
