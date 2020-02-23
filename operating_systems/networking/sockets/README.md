@@ -1,0 +1,1 @@
+This shall capture the way to work with sockets in linux
