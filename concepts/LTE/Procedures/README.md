@@ -1,0 +1,1 @@
+This shall capture all the available procedures in the LTE that are used to provide 4g connectivity between the network and the user equipment.
