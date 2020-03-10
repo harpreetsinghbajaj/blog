@@ -1,0 +1,1 @@
+This shall capture all my knoeledge regarding the c programming language.
