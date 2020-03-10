@@ -1,0 +1,1 @@
+uses less space and is also written with more security in mind and avoids a lot of race conditions and security pitfalls.
