@@ -1,0 +1,1 @@
+This shall capture all the knowledge that i have of functional programming.
