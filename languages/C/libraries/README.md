@@ -1,0 +1,1 @@
+Libraries are pre compiled code that can be linked to the program and used.
