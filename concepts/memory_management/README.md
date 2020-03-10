@@ -1,0 +1,1 @@
+This shall capture all my undestanding of the memory management.
