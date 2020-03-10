@@ -1,0 +1,1 @@
+This shall capture all the knowledge that I have of the devops.
