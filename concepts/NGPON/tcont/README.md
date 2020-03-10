@@ -1,0 +1,3 @@
+Every tcont is to carry one type of bandwidth data. Type of bandwidth data means for example streaming, texting, net surfing, gaming etc. Every bandwidth type has its own qos features. Qos feature mean max upload rate, download rate, qci. Type of bandwidth data a tcont carries is called t-cont-type
+
+Different services can map to one bandwidth type like netflix, skype call, Amazon prime, etc are all steaming services. 
