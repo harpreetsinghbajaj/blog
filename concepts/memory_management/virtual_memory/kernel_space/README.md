@@ -1,1 +1,8 @@
 Kernel space has the kernel code and virtual memory mapping. Normal and DMA physical memory portions are directly mapped or linearly mapped to the kernel address space. This addresses are linearly accessible to kernel.
+
+
+The reason that kernel virtual space is a limiting factor on use able physical memory is because the kernel needs access to all physical memory, and the way it accesses physical memory is through kernel virtual addresses. The kernel doesn't use special instructions that allow direct access to physical memory locations - it has to set up page table entries for any physical ranges that it wants to talk to.
+
+In the "old style" scheme, the kernel set things up so that every process's page tables mapped virtual addresses from 0xC0000000 to 0xFFFFFFFF directly to physical addresses from 0x00000000 to 0x3FFFFFFF (these pages were marked so that they were only accessible in ring 0 - kernel mode). These are the "kernel virtual addresses". Under this scheme, the kernel could directly read and write any physical memory location without having to fiddle with the MMU to change the mappings.
+
+Under the HIGHMEM scheme, the mappings from kernel virtual addresses to physical addresses aren't fixed - parts of physical memory are mapped in and out of the kernel virtual address space as the kernel needs access to that memory. This allows more physical memory to be used, but at the cost of having to constantly change the virtual-to-physical mappings, which is quite an expensive operation.
