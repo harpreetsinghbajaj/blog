@@ -1,0 +1,1 @@
+User space has user space processes. Zone memory is available for user processes. Any address in zone memory is non linearly mapped to virtual address space. 
