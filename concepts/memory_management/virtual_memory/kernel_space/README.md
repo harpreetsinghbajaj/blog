@@ -1,0 +1,1 @@
+Kernel space has the kernel code and virtual memory mapping. Normal and DMA physical memory portions are directly mapped or linearly mapped to the kernel address space. This addresses are linearly accessible to kernel.
