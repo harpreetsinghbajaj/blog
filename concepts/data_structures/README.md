@@ -1,0 +1,1 @@
+This shall capture all the knowledge of data structures that I have
