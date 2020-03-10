@@ -1,0 +1,1 @@
+Virtual memory is to give the feel to application process that it has complete address space.
