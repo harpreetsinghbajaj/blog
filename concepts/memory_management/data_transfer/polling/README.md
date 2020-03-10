@@ -1,0 +1,1 @@
+In the polling, the CPU first reads the data from the source and then puts it to the destination. CPU is involved throughout the transfer of data means that the CPU has to itself monitor whether the data transfer is complete or not.
