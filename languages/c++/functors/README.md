@@ -1,0 +1,1 @@
+Functor is a class that implements the function operator (). Then object of this call can be passed to the function like callback functions.
