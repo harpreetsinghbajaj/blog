@@ -1,0 +1,2 @@
+Std map maintains a sorted list of keys. By default order is ascending. Provide the comparator function to change the order to descending.
+Unordered map is the container that maintains the keys in the order they are inserted. 
