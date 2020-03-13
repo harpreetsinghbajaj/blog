@@ -1,0 +1,1 @@
+Initializer_list is a concept to replace variable number of argument list in C++ 11. Also u will supply the data type to the intializer_list template thereby restricting the type of arguments that can be accepted.
