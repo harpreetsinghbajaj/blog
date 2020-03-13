@@ -1,0 +1,1 @@
+for(auto val : some_container) is a shorthand of the for loop that will iterate over every element of the container.
