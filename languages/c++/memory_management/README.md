@@ -1,0 +1,1 @@
+This shall capture all the knowledge that I have regarding the memory management in c++.
