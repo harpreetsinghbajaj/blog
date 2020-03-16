@@ -1,0 +1,1 @@
+The idea of exceptions propagation is that the caller of the function must be able to handle all type of exceptions as per the agreement mentioned in the throw list.
