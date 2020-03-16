@@ -1,0 +1,1 @@
+Dangling pointer is one that has been deleted but still pointed by someone else pointer and that to within the lifetime of application process.
