@@ -1,0 +1,1 @@
+These are provided by the language itself. Compiler is aware of these and programmer can make direct use of these.
