@@ -1,0 +1,1 @@
+Ok so unsigned integer shall not be used because of there rounding offs and expansion in case of negative value assigned to it. Now it can only be used in case of bitwise operations.
