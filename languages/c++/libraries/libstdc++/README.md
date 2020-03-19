@@ -1,0 +1,1 @@
+this has the definition of ostream class of which  cout is an object.
