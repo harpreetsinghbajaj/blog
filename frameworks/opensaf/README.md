@@ -1,0 +1,1 @@
+Amf presence state instantiated was not assigned to the component and it was restarting. So the reason was that we were not responding to the health check callback.
