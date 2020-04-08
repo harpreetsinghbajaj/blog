@@ -1,0 +1,1 @@
+Capacity in agile is the total number of available hours of team. This includes time to achieve the definition of done and solve hurdles that can block this delivery
