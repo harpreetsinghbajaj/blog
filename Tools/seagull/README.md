@@ -1,0 +1,5 @@
+If kernel is already having its .ko module of sctp loaded then seagull will not be running. It is using its own sctp libraries.
+DWR/DWA is not there in the scenarios file. So you have to explicitly define the handling of this message in the scenario file.
+Host-Ip-address is to be written in hex format. Total 12 bits have to be there in that. format should be 0X0001<ip in hex format>. 1 before <ip> is important for the wireshark to treat the ip address of IPv4 family and correctly display it in the <192.167.5.4> type format. Also this AVP is of no use in the CER/CEA message. It is just to inform each other about the ip addresses.
+Because seagull is up on 0.0.0.0 so when two instances were made up on the same VM then the sctp init message send for one ip address seagull is responded by the seagull instance of other ip address. This will not even establish an sctp connection between the client and server.
+Seagull will show call count in the default view but there will be many messages in the call. So to see the count of messages in the call press <down key> and check the breakup.
