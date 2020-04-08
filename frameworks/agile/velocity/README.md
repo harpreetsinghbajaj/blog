@@ -1,0 +1,1 @@
+Velocity is the total number of hours that the team produce productive output. Productive means meeting the definition of done of epics. The other time was spent in solving hurdles that could have hampered this delivery.  It is evaluated over a period of time to see what is the sustainable and consistent velocity of team.
