@@ -1,0 +1,1 @@
+Interaction diagram is the class of diagrams that are there to tell the way different objects of the system are interacting with each time. These are of two types. sequence diagram and collaboration diagram.
