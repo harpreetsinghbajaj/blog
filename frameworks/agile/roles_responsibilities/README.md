@@ -1,0 +1,1 @@
+various roles and their responsibilities
