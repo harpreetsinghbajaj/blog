@@ -1,0 +1,1 @@
+shutdown the VM and then export as OVF. This exort cannot be done when VM is running.
