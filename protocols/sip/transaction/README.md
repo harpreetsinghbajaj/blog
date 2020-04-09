@@ -1,0 +1,1 @@
+set of messages between a request and a final response.
