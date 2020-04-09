@@ -1,0 +1,1 @@
+These are type 1 hypervisors that run on bare metal.
