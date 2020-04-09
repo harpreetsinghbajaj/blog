@@ -1,0 +1,1 @@
+For accessing centos from putty in the host machine, I hav used the host network only and that too automatically settled up. After this check the interface using ifconfig command that re received the IP from that range. Now go to its if config file and make it static. Add prefix and ip address with bootproto none. Now access from putty
