@@ -1,0 +1,1 @@
+Dialogue is a set of transactions. Dialogue has to be established and teared 
