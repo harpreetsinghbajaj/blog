@@ -1,0 +1,1 @@
+199 early dialogue terminated it can be sent by the user agent server to indicate upstream sip entiry that early dialogue has been terminated.
