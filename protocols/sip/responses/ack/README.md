@@ -1,0 +1,1 @@
+Ack is sent in response to the final response of an invite message
