@@ -1,0 +1,1 @@
+It is a type 2 hypervisor that runs on the host operating system
