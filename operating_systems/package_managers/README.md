@@ -1,0 +1,1 @@
+This shall capture knowledge of package managers that have been used by me.
