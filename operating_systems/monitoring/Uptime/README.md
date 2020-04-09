@@ -1,0 +1,1 @@
+uptime command provides information regarding since when the system is up.
