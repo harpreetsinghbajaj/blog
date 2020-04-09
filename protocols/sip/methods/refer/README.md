@@ -1,0 +1,1 @@
+Refer is used to send the transfer request to the user. Its request line has the uri of the transfree and there is a refer to header which has the uri of target contact and contact header has the transport detail's of the target.
