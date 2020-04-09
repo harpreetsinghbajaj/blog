@@ -1,0 +1,4 @@
+New VM that will be deployed using the ovf file will have new MAC address and the one available in the file ifcfg-eth0 will have the MAC address of previous OVF file. Due to this there will be conflicts in the ethernet binding.
+Error shown will be device eth0 does not seem to be present.
+Check the file that names something like 70-persistent-rules in /etc/udev/ folder. This file has the mac adress binding with the ethernet inteface like eth0 , eth1 etc.
+So delete this old file and restart the system. This will create a new file that will be having new mac address binding with the ethernet interfaces. Now change the ethernet interface names to the interfaces you want to use and copy the mac address in the corresponding ethernet file in /etc/sysconfig/netwprk-scripts/ifcfg-eth0, etc. Now restart the system and ip will come up the ethernet interfaces and ips of our choice.
