@@ -1,0 +1,1 @@
+nohup is the command in linux that is used to run the process in the background mode so that the process keeps running in the background even when the shell in which it is started exits.
