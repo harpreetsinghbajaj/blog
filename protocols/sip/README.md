@@ -1,0 +1,1 @@
+session initiation protocol defines the protocol for eastablishing a session for voip communication.
