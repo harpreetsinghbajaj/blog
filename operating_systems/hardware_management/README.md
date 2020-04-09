@@ -1,0 +1,1 @@
+This shall capture all the knowledge of mine regarding how the operating system control hardware
