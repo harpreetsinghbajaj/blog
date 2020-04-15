@@ -1,0 +1,1 @@
+phone-context in SIP URI helps in making a number globally unique and also defines the scope in which the number is valid. It also tells that the user part of the sip URI shall be treated as a TEL URI.
