@@ -1,0 +1,1 @@
+Cancel is used to terminate an not established dialogue
