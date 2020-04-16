@@ -1,0 +1,1 @@
+This is a protocol to communicate between UE and the MME
