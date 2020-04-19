@@ -1,0 +1,1 @@
+Software interrupt is a special instruction that tells the CPU to stop execute. This instruction is placed by the debugger in the binary at which the breakpoint is applied
