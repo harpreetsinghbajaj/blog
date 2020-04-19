@@ -1,0 +1,1 @@
+This shall capture the knowledge I have for ms word
