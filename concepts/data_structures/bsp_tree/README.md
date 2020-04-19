@@ -1,0 +1,1 @@
+In binary space partitioning the plane can be any aligned
