@@ -42,3 +42,10 @@ This pre-processing can be like sorting, searching or creating some additional d
 
 
 For dynamic programming, thinking must be done from last to first. That is think like if nth item is part of the optimal solution or not. Then try to find the recursive solution. This will give better and quick break up. Refer to Activity scheduling problem
+
+
+Every problem in computer can be solved by adding a layer of indirection
+
+The key with studying is to start with what you know and then fill in the gaps.
+
+
