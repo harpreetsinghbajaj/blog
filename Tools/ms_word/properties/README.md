@@ -1,0 +1,1 @@
+Go to file tab of document and then check properties
