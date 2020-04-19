@@ -1,0 +1,1 @@
+In kd tree the hyerplane that partition the spaces must be aligned with the axis.
