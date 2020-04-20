@@ -1,0 +1,1 @@
+Gdb breakpoint are implemented using the ptrace. This system call gives the user the ability to peep deep into the process and then inject its code into it.
