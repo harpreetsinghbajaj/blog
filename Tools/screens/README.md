@@ -36,3 +36,13 @@ screen -t make
 screen -t bin
 
  This will start a screen with the tabs named as above
+
+
+Start screen on login into the machine
+
+screen -x workspace
+
+if [ $? != 0 ]
+then
+   screen -S workspace
+fi
