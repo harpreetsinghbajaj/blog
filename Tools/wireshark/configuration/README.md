@@ -1,0 +1,1 @@
+For detecting the application level protocol we have to take care of ip and port number from the TCP header and the determine the packets application protocol
