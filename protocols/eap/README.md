@@ -1,0 +1,1 @@
+Eap authentication works on layer 2 so it does not need an IP address
