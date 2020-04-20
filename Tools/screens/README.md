@@ -46,3 +46,10 @@ if [ $? != 0 ]
 then
    screen -S workspace
 fi
+
+
+vbell_msg "bell: window ~%" # Message for visual bell
+vbellwait 2 # Seconds to pause the screen for visual bell
+vbell off # Turns visual bell off
+
+Above are required to switch off the scren flash that happens on pressing the backspace
