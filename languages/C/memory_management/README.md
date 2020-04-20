@@ -1,0 +1,1 @@
+Use hooks for malloc and free so that we can catch the points of allocation and the addresses. Then from free we can match the same addresses if freed or not
