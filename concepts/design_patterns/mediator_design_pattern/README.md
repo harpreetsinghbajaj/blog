@@ -1,0 +1,1 @@
+Mediator design pattern shall also facilitate how to exchange data from one to another module. This is that output of one module is the input to another and this has to be done via the mediator
