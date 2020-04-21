@@ -14,3 +14,6 @@ Small means delivery in 2 week
 Testable
 
  A good way to create user story is to think about 3 c. Card, conversation and confirmation. Front of card will have user story, after conversation with development team definition of done can be confirmed with the team.
+
+
+Many developers will work on the same story. Thus a story is broken down into tasks
