@@ -6,3 +6,13 @@ Mutual exclusion means that only a single thread should be able to access the sh
 
 
 Synchronization means that you synchronize/order the access of multiple threads to the shared resource.
+
+
+The thread that acquires the mutex is the only one that can release it
+
+Recursive mutex is the one which once taken by a thread can be acquired again and again by the same thread not by the other thread.
+
+
+Spin locks are better if the mutex is to be acquired again and again and for a very short duration.
+
+Mutex serves the purpose of mutual exclusion.
