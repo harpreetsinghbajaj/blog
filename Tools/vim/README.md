@@ -22,3 +22,6 @@ highlight DiffText   cterm=bold ctermfg=10 ctermbg=88 gui=none guifg=bg guibg=Re
 
 hi Search ctermbg=LightYellow
 hi Search ctermfg=DarkRed
+
+
+Word|word2 etc To select multiple searches in the vim
