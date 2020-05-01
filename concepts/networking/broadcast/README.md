@@ -1,0 +1,1 @@
+It means that any packet that is broadcasted can be accepted by all the devices to which it is send.
