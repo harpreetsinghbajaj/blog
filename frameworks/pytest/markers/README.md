@@ -1,0 +1,1 @@
+Markers in the pytest facilitate selective execution of test cases.
