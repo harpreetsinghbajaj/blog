@@ -1,0 +1,1 @@
+An optical line termination (OLT), also called an optical line terminal, is a device which serves as the service provider endpoint of a passive optical network.
