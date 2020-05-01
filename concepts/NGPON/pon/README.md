@@ -1,0 +1,1 @@
+passive optical network has Disadvantage that they serve less distance and the user does not have dedicated bandwidth due to which latency in the services will cause bad experience 
