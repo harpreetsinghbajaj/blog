@@ -186,5 +186,7 @@ With the knowledge shared in the trailing email as base more readings from the i
 There are broad categories of different things that you need to know about for your system design. There may be load balancers, message handlers, database technologies, etc. The key is to know at least one thing in each of these larger areas. If we take message handlers for endings for example, you might have Kafka, RabbitMQ, or a million other things. But you don’t need to know all of those. You just need to know generally what a message handler is and how it works. After that you just need to know one specific technology that you can use in your design
 
 
-
+If we have to change behavior we have to change Structure .
+design thinking mind set .
+Always look at Backend also.
 
