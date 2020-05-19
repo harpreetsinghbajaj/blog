@@ -1,0 +1,1 @@
+Scrum master will pull the epic from back log into each sprint
