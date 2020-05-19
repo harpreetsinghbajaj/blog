@@ -13,6 +13,6 @@ The thread that acquires the mutex is the only one that can release it
 Recursive mutex is the one which once taken by a thread can be acquired again and again by the same thread not by the other thread.
 
 
-Spin locks are better if the mutex is to be acquired again and again and for a very short duration.
+Spin locks are better if the mutex is to be acquired again and again and for a very short duration. They keep checking in a loop if the mutex is available for accusition. Thus causing busy waiting.
 
 Mutex serves the purpose of mutual exclusion.
