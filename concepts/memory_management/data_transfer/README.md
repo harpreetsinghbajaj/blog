@@ -19,4 +19,4 @@ Mapping of device means association of a range of user space addresses with the 
 Without memory mapped io the user space has to interact with device via the kernel system calls and data is copied from kernel to user space. With this extra data buffer is not maintained in kernel. So directly user space buffer is accessed. Kernel still remains in communication via system calls. Processor will still be involved in transfering data from the memory to device
 
 
-
+Port based io in which the processor has special instructions to instruct ports of device
