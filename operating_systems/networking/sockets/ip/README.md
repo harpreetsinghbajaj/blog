@@ -1,0 +1,1 @@
+binding a port to a 0 ip that is making port up on 0.0.0.0 means that if a client tries to connect using any ip of the server, this socket will accept the connection.
