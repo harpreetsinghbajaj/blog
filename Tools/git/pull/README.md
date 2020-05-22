@@ -1,0 +1,1 @@
+Getting error unable to update local reference while git pull. So I removed the .git/refs/remotes/origin/master file and then git pull worked 
