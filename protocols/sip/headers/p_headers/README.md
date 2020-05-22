@@ -4,3 +4,6 @@ P served user is the identity whose service profile was fetched and processed by
 
 
 Pani header is added by the Node of core network as it is the Private header.  This header has the location information of the user.
+
+
+Pvni header gives information about visited network.
