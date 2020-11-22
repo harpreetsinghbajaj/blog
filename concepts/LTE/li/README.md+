@@ -1,0 +1,1 @@
+This asn was trimmed and only for eps it was kept. Asn was passed to asn compiler to generate the code which will facilitate encoding and decoding of information elements and events. To encode and decode use the information element definition in the 24008 and 24301. Once encoded send it as tcp payload to the df2.
