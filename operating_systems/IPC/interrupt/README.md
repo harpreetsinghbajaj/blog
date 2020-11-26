@@ -7,6 +7,6 @@ System call is synchronous that is the user process will call the system call an
 
 Hardware Interrupt is that simply means that the cpu has to stop doing what it is doing and start executing the routine corresponding to the interrupt that got generated. Now once the handling of this routine is complete the os  will schedule the process that it was working on at the time interrupt is generated.
 
-Hardware interrupt comes as signal on the micro processor pins
+Hardware interrupt comes as signal on the micro processor pins. Hardware interrupts are asynchronous which means that it can come anytime a process is being handled by processor.
 
 Software interrupt is generated using an instruction INT 0X80 
