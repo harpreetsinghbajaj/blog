@@ -1,0 +1,1 @@
+Proc area is the one that gives information about the address space of the process. U can get the addresses from there and then read the memory at these addresses to get the data written in these locations. 
