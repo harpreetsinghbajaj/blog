@@ -1,0 +1,7 @@
+Combined attach is for both cs and ps services. 
+
+This is in the attach type IE of the nas packet. Other attach types can be eps attach 
+
+The request type ie is in the esm container of nas packet in which the type is coming. Its value can be initial attach, emergency attach, handover etc 
+
+The pco options are having the peefences for protocols to be exchanged with pgw. This is like pcscf address, iP layer parameters like dns address etc
