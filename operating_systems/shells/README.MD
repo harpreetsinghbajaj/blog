@@ -1,0 +1,1 @@
+.bashrc is executed when the non login shell is started like screen utility. But when you login into the shell from mobaxterm bash_profile is executed but not the .bashrc.
