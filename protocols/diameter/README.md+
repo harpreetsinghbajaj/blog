@@ -1,0 +1,3 @@
+The curly brackets mean that the avp has to be mandatorily included by the server in the message it sends. If application misses to do this the Diameter protocol stack will itself reject the message.
+
+M bit in flags of diameter AVP means that the receiver of this avp has to mandatorily understand this AVP. If it cannot then an error has to be reported.
