@@ -29,3 +29,9 @@ To identify a dialogue, there is a need of call ID and the from and to tags. Thi
 Route and Record-Route headers have the same thing but they occur in a different way. Record-Route header occurs only in the first transaction message of the dialogue and then in further transactions Route header will occur.
  
 Service Route Header is the URI of the SCSCF that will serve the UA. This header is sent in the 200 OK response of registration message.
+
+Pre Conditions
+
+It is a method to confirm that the resources required for volte call have been reserved prior to ringing 
+
+Curr and desired states for both local and remote are sent with sdp and it is updated in every message as and when progress is getting done.
