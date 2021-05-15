@@ -11,3 +11,6 @@ all_of returns true if a condition returns true for all the the elements in the 
 
 
 find_if returns an element to the first element in the container if the condition matches.
+
+Partition at is the stl api that will provide the iterator at the value in the stl obtained such that values to left of the iterator are ha one predicate evaluated to true and on right are false.
+
