@@ -27,3 +27,5 @@ hi Search ctermfg=DarkRed
 Word|word2 etc To select multiple searches in the vim
 
 Vim hangs on startup and then pkill vim opens the vim. This happens because it tries to connect to the x server. To resolve just unset the display variable or use vim-x
+
+Vundle is used in vim to manage plugins. So Iinstall vundle by just git cloning the repo in.vim/bundle folder and the update.vimrc with some commands.
