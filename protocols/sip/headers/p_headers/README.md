@@ -3,7 +3,7 @@ P associated identities are the implicitly registered user ids sent by the scscf
 P served user is the identity whose service profile was fetched and processed by the application server from the hss
 
 
-Pani header is added by the Node of core network as it is the Private header.  This header has the location information of the user.
+Pani header is added by the Node of core network as it is the Private header.  This header has the location information of the user. Pani header can have multiple values using csv format. It is not like multiple pani headers each having one value in it.
 
 
 Pvni header gives information about visited network.
