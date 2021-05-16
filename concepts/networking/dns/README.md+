@@ -1,0 +1,11 @@
+Domain naming system is used ti find the ip address from fqdn 
+
+Dns has different record types and naptr, srv are some of the record types 
+
+Naptr reply has the details of services and protocols supported by fqdn 
+
+Then srv query is sent to find the correct fqdn for one of the above service 
+
+After this the a record is fetched to get the ip address 
+
+For example sip fqdn query to dns will return the supported protocols like udp, tcp 
