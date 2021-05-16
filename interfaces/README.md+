@@ -1,3 +1,6 @@
 32299 for all the charging related messages over online and offline charging interface 
 
 Ir 65 and 67 are the two volte standard that define request uri formats 
+
+ANI header in the charging will carry the pani header same as that in the invite. Since this AVP is mandatory meaning that it’s parsing has to be done. If the charging server fails to parse this AVP then messages will fail. 
+
