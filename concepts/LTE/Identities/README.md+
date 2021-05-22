@@ -1,0 +1,3 @@
+Apn network id is the fqdn created using mcc mnc and it identifies the pdn to which the ue wants to connect 
+
+Apn oi is the identifier that is defined by operator to identify the pdn.
