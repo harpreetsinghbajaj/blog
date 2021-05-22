@@ -8,3 +8,5 @@ Imsi is mcc mnc and subscriber number. In this for all operators this mcc will b
 Msisdn is cc ndc and subscriber number. Cc is like 91 for india, etc. This is used to route calls around the globe. For all operators like Airtel, idea etc the cc will be same 
 
 Guti is globally unique temporary id. It has two parts gummie and m tmsi . Gummie is globally unique mme Id. It is made up of plmn, mme group id and mme id in that group.
+
+only hss and pgw are in the home network and all other entities are in the visited network 
