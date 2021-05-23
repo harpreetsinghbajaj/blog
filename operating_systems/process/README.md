@@ -1,1 +1,3 @@
 This shall capture all the knowledge that I have for processes.
+
+If there are global and static variables in a shared object then the one definition rule applies. Every process has its own address space and no process can access the address space of other process. So the shared library static and global variables will be available in process space. Every process has its own copy of global and static variables thus only one definition per shared object in process space is there 
