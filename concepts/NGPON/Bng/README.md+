@@ -1,0 +1,6 @@
+Broadband Network Gateway (BNG) is the access point for subscribers, through which they connect to the broadband network. This node perform the following functions
+Qos enforcement 
+Subscriber authentication and authorisation
+Charging 
+
+BNG establishes and manages subscriber sessions. When a session is active, BNG aggregates traffic from various subscriber sessions from an access network, and routes it to the network of the service provider. subscriber directly connects to the edge router.
