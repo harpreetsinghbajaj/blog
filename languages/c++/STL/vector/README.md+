@@ -1,0 +1,8 @@
+C++ vector = operator
+This operator in c++11 I think calls the move ctor because I wrote one program but there I was not able to explain the outcome without move ctor.
+
+This is not the correct understanding as the vector assignment  calls the assignment operator. Assignment operator is not destruction and construction. Instead it’s like memcpy.
+
+I created a vector of size 2 and assigned a vector of size 1 to it. At that time the second object in the vector got destroyed by a dtor call.  So my doubt is clear.
+
+If you create a vector of size 0 and assign it to a vector of size n then copy ctor will be called n times and size of new vector will be n
