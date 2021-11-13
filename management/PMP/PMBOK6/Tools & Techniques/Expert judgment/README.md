@@ -1,7 +1,7 @@
 Expert judgment is defined as judgment provided based upon expertise in an application area, Knowledge Area, 
 discipline, industry, etc., as appropriate for the activity being performed
 
-DEVELOP PROJECT CHARTER:
+## DEVELOP PROJECT CHARTER:
 For this process, expertise should be considered from individuals or groups with specialized knowledge of or training 
 in the following topics:
 Organizational strategy,
@@ -10,7 +10,7 @@ Technical knowledge of the industry and focus area of the project,
 Duration and budget estimation, and
 Risk identification.
 
-DEVELOP PROJECT MANAGEMENT PLAN:
+## DEVELOP PROJECT MANAGEMENT PLAN:
 Expertise should be considered from individuals or groups with specialized
 knowledge of or training in the following topics:
 Tailoring the project management process to meet the project needs, including the dependencies and interactions 
@@ -25,7 +25,7 @@ Prioritizing the work on the project to ensure the project resources are allocat
 appropriate time.
 
 
-DIRECT AND MANAGE PROJECT WORK:
+## DIRECT AND MANAGE PROJECT WORK:
 Expertise should be considered from individuals or groups with specialized knowledge 
 or training in the following topics:
 Technical knowledge on the industry and focus area of the project,
@@ -34,7 +34,7 @@ Legal and procurement,
 Legislation and regulations, and
 Organizational governance
 
-MANAGE PROJECT KNOWLEDGE:-
+## MANAGE PROJECT KNOWLEDGE:-
 Expertise should be considered from individuals or groups with specialized knowledge 
 or training in the following topics:
 uu Knowledge management,
