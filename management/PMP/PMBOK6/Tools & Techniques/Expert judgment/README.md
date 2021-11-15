@@ -169,3 +169,90 @@ Expertise should be considered from individuals or groups with specialized knowl
 1. Communications with the public, the community, and the media, and, in an international environment, between virtual groups
 2. Communications and project management systems
 
+## PLAN RISK MANAGEMENT
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Familiarity with the organization’s approach to managing risk, including enterprise risk management where this is performed
+2. Tailoring risk management to the specific needs of a project
+3. Types of risk that are likely to be encountered on projects in the same area
+
+## IDENTIFY RISKS
+Expertise should be considered from individuals or groups with specialized knowledge of similar projects or business areas. Such experts should be identified by the project manager and invited to consider all aspects of individual project risks as well as sources of overall project risk, based on their previous experience and areas of expertise. The experts’ bias should be taken into account in this process.
+
+## PERFORM QUALITATIVE RISK ANALYSIS
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Previous similar projects
+2. Qualitative risk analysis
+
+Expert judgment is often obtained through facilitated risk workshops or interviews. The possibility of expert views being biased should be taken into account in this process.
+
+## PERFORM QUANTITATIVE RISK ANALYSIS
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Translating information on individual project risks and other sources of uncertainty into numeric inputs for the quantitative risk analysis model
+2. Selecting the most appropriate representation of uncertainty to model particular risks or other sources of uncertainty
+3. Modeling techniques that are appropriate in the context of the project
+4. Identifying which tools would be most suitable for the selected modeling techniques
+5. Interpreting the outputs of quantitative risk analysis
+
+
+## PLAN RISK RESPONSES
+Expertise should be considered from individuals or groups with specialized knowledge in the following topics:
+1. Threat response strategies
+2. Opportunity response strategies
+3. Contingent response strategies
+4. Overall project risk response strategies
+
+Expert input may be sought from individuals with particular subject matter expertise relevant to a specific individual project risk, for example, where specialist technical knowledge is required.
+
+
+## IMPLEMENT RISK RESPONSES
+Expertise should be considered from individuals or groups with specialized knowledge to validate or modify risk responses if necessary, and decide how to implement them in the most efficient and effective manner.
+
+
+## PLAN PROCUREMENT MANAGEMENT
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Procurement and purchasing
+2. Contract types and contract documents
+3. Regulations and compliance topics
+
+
+## CONDUCT PROCUREMENTS
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Proposal evaluation
+2. Technical or subject matter
+3. Relevant functional areas such as finance, engineering, design, development, supply chain management, etc.
+4. Industry regulatory environment
+5. Laws, regulations, and compliance requirements
+6. Negotiation
+
+
+## CONTROL PROCUREMENTS
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Relevant functional areas such as finance, engineering, design, development, supply chain management, etc.
+2. Laws, regulations, and compliance requirements
+3. Claims administration
+
+## IDENTIFY STAKEHOLDERS
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Understanding the politics and power structures in the organization
+2. Knowledge of the environment and culture of the organization and other affected organizations including customers and the wider environment
+3. Knowledge of the industry or type of project deliverable
+4. Knowledge of individual team member contributions and expertise.
+
+## PLAN STAKEHOLDER ENGAGEMENT
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Politics and power structures in the organization and outside the organization
+2. Environment and culture of the organization and outside the organization
+3. Analytical and assessment techniques to be used for stakeholder engagement processes
+4. Communication means and strategies
+5. Knowledge from previous projects of the characteristics of stakeholders and stakeholder groups and organizations 
+   involved in the current project that may have been involved in previous similar projects.
+
+## MANAGE STAKEHOLDER ENGAGEMENT
+Expertise should be considered from individuals or groups with specialized knowledge or training in the following topics:
+1. Politics and power structures in the organization and outside the organization
+2. Environment and culture of the organization and outside the organization
+3. Analytical and assessment techniques to be used for stakeholder engagement processes
+4. Communication methods and strategies
+5. Characteristics of stakeholders, stakeholder groups, and organizations involved in the current project that may 
+   have been involved in previous projects; and
+6. Requirements management, vendor management, and change management
